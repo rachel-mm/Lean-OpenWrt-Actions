@@ -107,13 +107,6 @@ CONFIG_PACKAGE_ipv6helper=y
 CONFIG_PACKAGE_luci-app-autoreboot=y
 CONFIG_PACKAGE_luci-i18n-autoreboot-zh-cn=y
 
-# # Themes
-CONFIG_PACKAGE_luci-app-argon-config=y
-CONFIG_PACKAGE_luci-app-argone-config=y
-CONFIG_PACKAGE_luci-i18n-argon-config-zh-cn=y
-CONFIG_PACKAGE_luci-i18n-argone-config-zh-cn=y
-CONFIG_PACKAGE_luci-theme-argone=y
-
 # 关机
 CONFIG_PACKAGE_luci-app-poweroff=y
 CONFIG_PACKAGE_luci-i18n-poweroff-zh-cn=y
@@ -142,13 +135,6 @@ CONFIG_PACKAGE_luci-i18n-passwall-zh-cn=y
 CONFIG_PACKAGE_luci-app-passwall2=y
 CONFIG_PACKAGE_luci-i18n-passwall2-zh-cn=y
 
-# VPN
-CONFIG_PACKAGE_luci-app-ipsec-vpnd=y
-CONFIG_PACKAGE_luci-i18n-ipsec-vpnd-zh-cn=y
-
-CONFIG_PACKAGE_luci-app-openvpn=y
-CONFIG_PACKAGE_luci-i18n-openvpn-zh-cn=y
-
 # quickstart
 CONFIG_PACKAGE_luci-app-quickstart=y
 CONFIG_PACKAGE_luci-i18n-quickstart-zh-cn=y
@@ -164,11 +150,6 @@ CONFIG_PACKAGE_luci-app-unblockmusic=y
 CONFIG_PACKAGE_luci-app-unblockmusic_INCLUDE_UnblockNeteaseMusic_Go=y
 CONFIG_PACKAGE_luci-app-unblockmusic_INCLUDE_UnblockNeteaseMusic_NodeJS=y
 CONFIG_PACKAGE_luci-i18n-unblockmusic-zh-cn=y
-
-# luci-app-uugamebooster=y
-CONFIG_PACKAGE_luci-app-uugamebooster=y
-CONFIG_PACKAGE_luci-i18n-uugamebooster-zh-cn=y
-
 
 # luci-app-webadmin=y
 CONFIG_PACKAGE_luci-app-webadmin=y
